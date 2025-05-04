@@ -1,0 +1,21 @@
+https://dongfeng-aeolus.ru/plugins/tcse/tg-bot-admin/admin.php 
+
+tg-bot-admin/
+├── admin.php
+├── config.php
+├── index.php
+├── set_commands.php
+├── data/
+│   ├── errors_db.json
+│   └── faq_data.json
+├── backups/
+│   └── 2024-01-01_12-30-00/
+│       ├── config.php
+│       ├── admin.php
+│       └── data/
+│           ├── errors_db.json
+│           └── faq_data.json
+└── logs/
+    └── bot.log
+
+
